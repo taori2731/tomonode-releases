@@ -1,0 +1,11 @@
+{
+  "version": "0.3.0",
+  "notes": "Developer Tools専用の署名付き更新センター、明示同意後のダウンロードと検証、更新失敗時の現行版維持、9言語対応を追加しました。",
+  "pub_date": "2026-09-01T09:19:05Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ3FrT3BiZnAyTlpDODh5VzFxWlJDQ2Z2U05jN2lLcStNOWUvVmxVd3ZpcG9Wdk9mQVdEaVlLTWd2Tm05UEhIQ21ITHFMVUVwVEFoOVpOc1lPN2hEaVJGbHAwcEl1eVFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MjU0MjY5CWZpbGU6TWluZWNyYWZ0IFNlcnZlciBIdWIgRGV2ZWxvcGVyIFRvb2xzXzAuMy4wX3g2NC1zZXR1cC5leGUKQnRXY2RmeU9RWVkxTkVZVmJESEFpQ1NWKytCSmlpU3E5M0h1S2tDNGg5L3JqZXBFZ2ZXMmJCMnIvcjRSREd1UXY2VjdZQXJLV2ZvRTh3RnZ5U1NaQ3c9PQo=",
+      "url": "https://github.com/taori2731/minecraft-server-hub-releases/releases/download/developer-tools-v0.3.0/Minecraft.Server.Hub.Developer.Tools_0.3.0_x64-setup.exe"
+    }
+  }
+}

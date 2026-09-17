@@ -4,7 +4,7 @@
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ3FrT3BiZnAyTlU5Tjc2VFUxZWJSWXRKN0FLbDl4UzhHVlY4UFdGVksvU2JOQUMyOUZEcGUxbkV2NE9QQjhwQkN6UUZEYW9DWG5qWTBpRE82dUFHQ3lobE5QMDJqcWdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MjU2NDM0CWZpbGU6TWluZWNyYWZ0IFNlcnZlciBIdWIgRGV2ZWxvcGVyIFRvb2xzXzAuMy4xX3g2NC1zZXR1cC5leGUKLzYzY3o4dXg4TUlEeHU0WGNBTlRvaCtSSHpDbGRXKzZxL1ZFSlBuYkJicHI4bitkbnFRQlhUZ1VKZWRMQ1ZHc1pkZlBXcDQrUzhSMUh0SVlRL25CRHc9PQo=",
-      "url": "https://github.com/taori2731/minecraft-server-hub-releases/releases/download/developer-tools-v0.3.1/Minecraft.Server.Hub.Developer.Tools_0.3.1_x64-setup.exe"
+      "url": "https://github.com/taori2731/tomonode-releases/releases/download/developer-tools-v0.3.1/Minecraft.Server.Hub.Developer.Tools_0.3.1_x64-setup.exe"
     }
   }
 }

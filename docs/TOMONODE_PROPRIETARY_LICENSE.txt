@@ -1,0 +1,33 @@
+TomoNode Proprietary License
+Copyright (c) 2026 taori2731. All rights reserved.
+
+1. Scope
+This license applies to original TomoNode changes made after the closed-source
+transition on 2026-10-13 and to subsequent releases distributed under this
+license. It does not revoke or replace rights already granted for code or
+releases previously distributed under Apache License 2.0, including v0.5.22.
+The previous license text is retained in docs/licenses/Apache-2.0.txt.
+
+2. Application use
+Recipients of official TomoNode binaries may install and run the application
+to manage their game servers. Existing Free and Supporter feature limits and
+service terms continue to apply. This license does not add a payment requirement.
+
+3. Proprietary source and redistribution
+Access to the current development repository requires the owner's permission.
+No new public permission is granted to copy, modify, publish, sell or redistribute
+the proprietary changes or subsequent application releases. Such permission
+must be obtained separately from taori2731, except where applicable law or a
+separate applicable license grants those rights.
+
+4. Third-party and previously licensed material
+Third-party software remains governed by its own licenses. Its notices,
+attributions and source-availability rights must be preserved. This license
+does not restrict rights granted by Apache License 2.0, MPL 2.0 or other
+applicable licenses for the material covered by those licenses.
+See docs/THIRD_PARTY_NOTICES.md and the bundled third-party license texts.
+
+5. Warranty
+The application comes without warranties to the extent permitted by law.
+Nothing in this license excludes rights or remedies that cannot legally be
+excluded.
